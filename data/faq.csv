@@ -1,0 +1,137 @@
+,Catégorie,Code_Categ,Question,Reponse,Client/Pas_Client,Code_Customer
+0,offre,5,Quelle est la spécificité de l'offre d'Enercoop ?,"Enercoop est le seul fournisseur d'électricité 100% renouvelable et coopérative à s'approvisionner directement auprès de producteurs d'énergies renouvelables : hydraulique, éolien, photovoltaïque et biogaz.
+Au-delà, Enercoop est une Société Coopérative d'Intérêt Collectif (SCIC), dont plus de la moitié des bénéfices sont statutairement réinvestis dans l'objet de la structure, à savoir les énergies renouvelables et les économies d'énergie.
+En choisissant Enercoop, vous soutenez concrètement le développement des énergies renouvelables et participez à un nouveau projet d'appropriation citoyenne et locale du secteur de l'énergie.",Pas_Client,2
+1,offre,5,Comment puis-je être sûr de recevoir uniquement de l'électricité verte ?,"Il n'y a pas de traçabilité physique de l'électricité une fois injectée dans le réseau commun de transport et de distribution.
+Enercoop s'engage à injecter sur le réseau de distribution autant d'électricité d'origine renouvelable que ses clients en consomment. La traçabilité est financière : vous avez la garantie que votre argent va aux énergies renouvelables, en rémunérant les producteurs de la coopérative via votre facture d'électricité.
+En plus de s'approvisionner auprès de producteurs d'énergie renouvelable, Enercoop recourt au dispositif des garanties d'origine, géré par un organisme indépendant, lui permettant de démontrer que l'électricité qu'il fournit est bien d'origine renouvelable. Grâce aux contrats établis en direct avec les producteurs, ces garanties d'origine sont directement liées à l'énergie achetée par Enercoop.",Pas_Client,2
+2,offre,5,Pourquoi l'offre d'Enercoop est-elle un peu plus chère que celle des autres fournisseurs ?,"Le prix d'Enercoop repose sur la réalité de son coût d'approvisionnement et non sur des opportunités commerciales.
+Enercoop répercute ses coûts d'achat d'énergie sur la facture finale dans une démarche transparente de viabilité du modèle à long terme.
+Le modèle économique d'Enercoop ne pourrait pas être viable si ses tarifs étaient adossés à ceux que pratiquent actuellement les autres fournisseurs. 
+Les énergies renouvelables, elles, deviennent de plus en plus compétitives. L'hydroélectricité est depuis longtemps l'électricité la moins chère du marché tandis que l'éolien et le photovoltaïque au sol présentent aujourd'hui des coûts similaires à ceux des énergies fossiles, et inférieurs à ceux du nucléaire.
+Enfin, les tarifs actuels (hors Enercoop) n'intègrent pas, ou de façon très insuffisante, des coûts environnementaux et sociaux liés à l'utilisation des énergies fossiles et de l'énergie nucléaire : dérèglements climatiques, pollution, gestion des déchets radioactifs, catastrophes nucléaires… Coûts que nos sociétés doivent et vont devoir au final assumer.",Pas_Client,2
+3,souscription,8,Comment souscrire un contrat chez Enercoop ?,C'est très simple ! Rendez-vous sur https://souscription.enercoop.fr/ et laissez-vous guider !,Pas_Client,2
+4,souscription,8,Dois-je résilier le contrat avec mon fournisseur actuel pour souscrire chez Enercoop ?,"Non ! Enercoop s'occupe de tout au moment du traitement de votre souscription. Enercoop prendra en charge la résiliation de votre contrat en cours. Par ailleurs, il n'y aura ni coupure de courant, ni intervention sur votre compteur, qui reste géré par le gestionnaire du réseau de distribution (Enedis). Ce sont les mêmes agents qui interviendront pour effectuer vos relevés de compteur ainsi qu’en cas de panne.",Pas_Client,2
+5,souscription,8,Mon choix engage-t-il le prochain occupant / mon propriétaire?,"Non. Tout nouvel entrant dans un logement / local peut choisir immédiatement l'offre de son choix, y compris les tarifs réglementés, quel qu'ait été le choix du précédent occupant.",Pas_Client,2
+6,souscription,8,Puis-je changer d'avis ?,"Oui. Vous pouvez quitter Enercoop à tout moment sans frais.
+De plus, le retour aux tarifs réglementés est possible sans conditions pour les consommateurs dont le site a une puissance inférieure ou égale à 36 kVA.
+Sachez qu'en cas de souscription à distance (internet, téléphone, courrier) vous bénéficiez, si vous êtes un particulier, d'un délai de rétractation de 14 jours à compter de la date de souscription ou d'acceptation de l'offre quand elle est souscrite par internet.
+La rétractation peut être opérée par tout moyen et sans motif. Si le délai expire un samedi, un dimanche ou un jour férié ou chômé, il est prolongé jusqu'au premier jour ouvrable suivant.
+Vous pouvez demander à ce que l'exécution de votre contrat débute avant la fin du délai de rétractation si vous nous en faites directement la demande. Dans ce cas, l'énergie consommée et l'abonnement sont dus jusqu’à la date où vous nous communiquez votre décision de vous rétracter.",Pas_Client,2
+7,souscription,8,Comment trouver mon point de livraison ?,"Afin de finaliser la souscription d’un contrat Enercoop, il est nécessaire de nous transmettre votre point de livraison (PDL). C’est une référence à 14 chiffres, qui se situe sur la facture de votre actuel fournisseur.
+Si vous venez d’emménager dans un nouveau local, plusieurs possibilités s'offrent à vous pour trouver ce numéro :
+• Le récupérer auprès de votre prédécesseur, de votre agence ou de votre propriétaire selon votre situation
+• Nous communiquer le nom du prédécesseur et/ou le numéro de matricule de votre compteur
+• Nous envoyer une photo lisible du compteur.
+Si vous avez déjà un contrat chez un fournisseur d’électricité, vous trouverez cette référence directement sur vos factures actuelles.",Pas_Client,2
+8,souscription,8,Comment effectuer la relève de mon compteur ?,"Afin de finaliser la souscription d’un contrat Enercoop, il est nécessaire de nous transmettre votre relève de compteur. Cette relève doit être transmise selon votre paramétrage actuel : Base ou Heures - Pleines / Heures creuses.
+Le relevé du compteur permet de connaître avec exactitude le nombre de kWh consommés.
+  Vous avez un compteur électromécanique
+- Si le compteur comporte un seul cadran (option Base), relevez les 5 ou 6 derniers chiffres.
+- Si le compteur comporte deux cadrans (option Heures pleines / Heures creuses), relevez les 5 ou 6 derniers chiffres des deux cadrans. La première ligne correspond à la consommation aux heures creuses, la seconde correspond à la consommation aux heures pleines.
+  Vous avez un compteur électronique
+Appuyez sur le bouton «D» (Défilement).
+- Si des chiffres s’affichent, sans texte (option Base), relevez les 5 derniers chiffres.
+- Si des chiffres s’affichent, avec une indication texte «creuse» ou «pleine» (option Heures pleines / Heures creuses), relevez les 5 derniers chiffres indiqués pour la tranche horaire affichée et appuyez de nouveau sur le bouton «D» (Défilement), pour relèver les 5 autres chiffres indiqués pour l’autre tranche horaire.
+ ",Pas_Client,2
+9,souscription,8,Le réseau de distribution va t-il me réserver le même accueil qu'aux clients d'EDF ?,"Oui. Nous n'avons jamais constaté de traitement en défaveur de nos consommateurs. Le réseau est devenu une entité distincte d'EDF, Enedis (anciennement Électricité Réseau Distribution France), au service de tous les consommateurs, qu'ils soient clients d'Enercoop ou du fournisseur historique.",Pas_Client,2
+10,souscription,8,Aurai-je plus de coupures de courant qu'auparavant?,"Non. La continuité du service est toujours garantie par le gestionnaire du réseau de distribution d'électricité (Enedis, anciennement ERDF), qui reste un monopole, garant du service public de l'électricité.",Pas_Client,2
+11,contact,0,Besoin de nous contacter ?,"Vous avez des questions ? N'hésitez pas à contacter notre équipe au 09 70 68 07 65 du lundi au vendredi, de 9h à 18h.",Indéterminé,1
+12,sociétaire,7,Pourquoi devenir sociétaire ?,"Le statut de SCIC implique que tout consommateur, particulier ou professionnel, a la possibilité de devenir sociétaire en souscrivant au minimum une part de capital (= 100 €).
+Les avantages sont les suivants :
+pouvoir participer démocratiquement aux décisions de la coopérative lors de l’Assemblée générale et élire ses représentants au Conseil d’administration
+être candidat aux fonctions d’administrateur,
+être exonéré des frais d'enregistrement (36€ TTC)
+en cas d’exercice excédentaire, une rémunération des parts sociales peut être versée.",Client,0
+13,sociétaire,7,Dois-je devenir sociétaire pour être consommateur ?,Non. Être sociétaire n'est pas une obligation pour devenir consommateur. Le choix d'être sociétaire répond à une motivation qui va au-delà de la volonté de consommer vert : participer à notre démarche et au développement de la coopérative. Il est à noter que les sociétaires sont exonérés des frais à la souscription (36€ TTC) auxquels sont soumis les clients ayant une puissance souscrite inférieure à 36 kVA.,Client,0
+14,espace_client,2,Je n'arrive pas à me connecter à mon Espace client,"Votre espace client est compatible avec les dernières versions de navigateur internet, nous vous invitons à vérifier la version de votre navigateur internet et de le mettre à jour régulièrement afin de profiter pleinement de ses fonctionnalités (transmission de relevé de compteur, changement de coordonnées bancaires, consultation et téléchargement de vos factures, historique de consommation, formulaire de contact simplifié...)
+Vous pouvez vérifier la version de votre navigateur et le mettre à jour via ce lien: https://browser-update.org/fr/update.html
+Nous vous rappelons que votre espace client est accessible à cette adresse : http://espace-client.enercoop.fr. Votre identifiant est votre adresse email (pour la plupart d'entre vous, il s'agit de l'adresse email que vous avez utilisée pour souscrire). Votre mot de passe sera généré automatiquement par email lors de votre première connexion. Vous avez également la possibilité de renouveler votre mot de passe en cliquant sur ""mot de passe oublié"".
+ ",Client,0
+15,espace_client,2,Je ne sais pas à quelle date je peux faire mon auto-relève / Je n'arrive pas à faire mon auto-relève,"Parmi les fonctionnalités de l’espace client, nous attirons votre attention sur l’espace dédié à la saisie d’index de consommation qui correspond à la saisie de vos relevés de compteur. Vous pourrez saisir vos données directement dans cet espace tous les deux mois. Vous serez averti de la période de saisie directement par email et trouverez l'encart de déclaration sur la droite de la page d'accueil de votre espace client.
+À la suite de votre déclaration, vous recevrez un email de confirmation de prise en compte de votre relevé de compteur.
+Si vous n'arrivez pas à valider la saisie de votre index de consommation, c'est sûrement que votre navigateur n'est pas à jour.
+Sachez que vous pouvez vérifier votre version de navigateur en suivant ce lien: https://browser-update.org/fr/update.html",Client,0
+16,résiliation,6,Comment résilier mon contrat ?,"Vous pouvez résilier votre contrat à tout moment :
+- en changeant de fournisseur. Dans ce cas, le contrat sera résilié au jour de la prise d'effet du contrat avec votre nouveau fournisseur sans que vous ayez à faire une quelconque démarche auprès de nos services,
+- en cas de déménagement. Pour cela il suffit soit de vous rendre sur espace client dans l'onglet ""Compte"", rubrique ""Déménagement"" (adresse de votre espace client : http://espace-client.enercoop.fr), soit de nous envoyer un mail à l'adresse resiliation@enercoop.org en nous transmettant les informations suivantes :
+Nom et prénom figurant dans votre contrat
+Adresse précise du contrat
+La date souhaitée de résiliation
+Si possible, le relevé du compteur à la date de sortie (pour avoir une facture de résiliation avec les bons index de consommation)
+Votre nouvelle adresse (pour l'envoi de la facture de résiliation)
+La résiliation prendra effet à la date indiquée et au plus tard 30 jours après l'envoi du courriel.",Client,0
+17,facturation,3,Je ne reçois pas mes factures dans mon Espace client,"Retrouvez vos factures sur votre espace client. Nous vous rappelons que votre espace client est accessible à cette adresse : http://espace-client.enercoop.fr.
+Afin de visualiser vos factures, cliquez sur la rubrique ""Factures"" (en haut à gauche). Sélectionnez la facture que vous souhaitez visualiser, puis cliquez sur ""Voir votre facture détaillée"".",Client,0
+18,facturation,3,"J'ai un prélèvement avec le libellé ""Crédit Coopératif""","Vous avez peut-être été prélevé sur votre compte bancaire entre le 3 et le 28 aout 2018 du montant de votre facture ou de votre mensualité avec le libellé ""Crédit Coopératif"" au lieu de ""Enercoop"".
+Rassurez-vous, l'argent prélevé a été perçu par Enercoop et non par notre banque, le Crédit Coopératif.
+Si vous avez fait opposition à ce prélèvement, nous vous remercions de contacter notre Service Recouvrement et Solidarité au 01 80 18 92 28 ou par email à l'adresse recouvrement@enercoop.org.",Client,0
+19,facturation,3,Où trouver ma facture ?,"Retrouvez vos factures sur votre espace client. Nous vous rappelons que votre espace client est accessible à cette adresse : http://espace-client.enercoop.fr. Afin de visualiser vos factures, cliquez sur la rubrique ""Factures"" (en haut à gauche). Sélectionnez la facture que vous souhaitez visualiser, puis cliquez sur ""Voir votre facture détaillée""",Client,0
+20,facturation,3,Comment lire ma facture ?,Consultez l'exemple en pièce jointe afin de comprendre votre facture.,Client,0
+21,facturation,3,Comment régler ma facture ?,"Par défaut, le règlement est réalisé par prélèvement automatique 14 jours à compter de la date d'émission de la facture.
+Vous pouvez choisir de régler votre facture par prélèvement automatique, virement, chèque, mandat compte ou bien chèque énergie (si vous êtes éligibles à ce dispositif) 14 jours après la date d'émission de la facture sur simple demande.",Client,0
+22,facturation,3,"Comment déclarer sa consommation en ligne pour être facturé au ""réel"" ?","Parce que, pour réduire sa consommation, il faut d'abord la connaître, Enercoop vous propose de relever vous-même l'index de votre compteur tous les deux mois et de le rentrer dans votre espace client.
+Vous pourrez saisir vos données directement dans cet espace tous les deux mois. Vous serez averti.e de la période de saisie directement par email.",Client,0
+23,facturation,3,Que se passe-t-il en cas de rejet de prélèvement sur un de mes paiements ?,"A la suite de différents problèmes relatifs à des rejets et/ou problèmes de coordonnées bancaires, Enercoop peut être amené à «dé-prélevér » votre compte et à le passer en mode de paiement par chèque (si vous aviez choisi la mensualisation, vous serez alors « dé-mensualisé »).
+Nous vous invitons alors à régler vos factures d'électricité par chèque. Un échéancier de paiement peut éventuellement être mis en place.
+
+Si vous souhaitez revenir à un système de paiement par prélèvement automatique, veuillez régulariser votre situation auprès de votre établissement bancaire, et nous transmettre à nouveau votre RIB accompagné du formulaire d'autorisation de prélèvement.",Client,0
+24,facturation,3,Quelle est la périodicité de facturation ?,"Le rythme de facturation classique chez Enercoop est bimestriel (tous les deux mois), en effet, notre système de facturation est calé sur les relevés d'index que nous transmet le gestionnaire de réseau Enedis.
+Vous pouvez aussi passer à la mensualisation en contactant votre Service Client, nous vous proposerons ainsi un devis. La mensualisation chez Enercoop applique le même principe que la mensualisation de vos impôts ; à savoir 10 prélèvements identiques (sur 10 mois) et 2 prélèvements (sur 2 mois) de régularisation sur facture annuelle. La facture annuelle sera basée sur les relevés réels effectués par les techniciens du réseau Enedis, ce qui vous assure d'être facturé sur votre consommation réelle sur une année.
+Rappel du mode de calcul de vos factures :
+- Réel (relève réelle) : correspond au passage du technicien Enedis qui effectue 2 fois par an la relève de votre compteur
+- Déclaré : correspond à vos déclarations de relevés que vous nous transmettez via votre espace client
+- Estimé : à défaut d'auto-relève, Enedis génère et nous transmet des estimations de vos consommations",Client,0
+25,facturation,3,Je n'arrive pas à changer mon mode de paiement via mon Espace client,"Sur votre espace client vous pouvez modifier directement vos coordonnées bancaires (RIB).
+Pour changer de mode de paiement (Virement, chèque, prélèvement) ou demander de passer à la mensualisation, nous vous invitons à nous contacter en suivant ce lien : https://espace-client.enercoop.fr/mon-espace/compte/#discussion",Client,0
+26,facturation,3,Puis-je consulter mes factures sur Internet ?,"Retrouvez vos factures sur votre espace client, dans l'onglet ""Factures"". Nous vous rappelons que votre espace client est accessible à cette adresse : http://espace-client.enercoop.fr.
+Afin de visualiser vos factures, cliquez sur la rubrique ""Factures"" (en haut à gauche). Sélectionnez la facture que vous souhaitez visualiser, puis cliquez sur ""Voir votre facture détaillée"".",Client,0
+27,facturation,3,Comment faire pour être mensualisé ?,"Pour mettre en place la mensualisation, nous avons besoin d'un historique de votre consommation, sur un an idéalement . Vous pouvez donc être mensualisé si vous êtes dans votre logement depuis plus d'un an, quelque soit votre fournisseur d'électricité pendant cette période.
+Si vous ne pouvez pas nous communiquer d'historique de consommation nous vous conseillons d'attendre quelques mois afin de constituer celui-ci et de pouvoir ainsi déterminer le montant adéquat de vos mensualités.
+La mensualisation chez Enercoop applique le même principe que la mensualisation de vos impôts ; à savoir 10 prélèvements identiques (sur 10 mois) et 2 prélèvements (sur 2 mois) de régularisation sur facture annuelle.
+Vous pouvez faire votre demande par mail à service-client.part@enercoop.orgsi vous êtes un particulier, et à service-client.pro@enercoop.org si vous êtes un professionnel. Vous pouvez aussi faire cette demande par téléphone ou sur votre compte. Merci de nous communiquer tout élément utile : notamment vos factures d'électricité depuis un an (sauf si vous êtes chez Enercoop depuis plus d'un an, auquel cas nous disposons de vos factures), un relevé de votre compteur récent et, si vous ne l'aviez pas fourni, un RIB et un formulaire (à nous demander) d'autorisation de prélèvement.",Client,0
+28,facturation,3,Mise à jour des tarifs,"Les factures que vous payez à votre fournisseur d'électricité (Enercoop ou tout autre fournisseur) regroupent quatre composantes principales :
+une part déterminée par le fournisseur
+une part liée au coût des obligations réglementaires auxquelles l'ensemble des fournisseurs sont soumis
+-une part déterminée par, et qui revient au, réseau de transport et de distribution d'électricité en France (Enedis - anciennement ERDF - et RTE).
+une part de taxes (spécifiques à l'électricité et la TVA)
+Conformément aux conditions générales de vente:
+1. En cas d'évolution de la part du prix qui revient à Enercoop ou qui est lié aux obligations réglementaires, Enercoop communique à ses clients la nouvelle grille tarifaire un mois avant son application
+En 2019, Enecoop fait évoluer ses tarifs :
+Pour les clients particuliers : à partir du 1er mai 2019 – plus d’informations ici
+Pour les clients professionnels ayant une puissance souscrite inférieure à 36 kVA : à partir du 1er mai 2019 – plus d’informations ici
+Pour les clients professionnels ayant une puissance souscrite supérieure à 36 kVA : à partir du 1er févier 2019 – plus d’informations ici
+2. En cas d'évolution de la part détermine par le réseau de transport et de distribution d'électricité en France ou de taxes, ces dernières sont répercutées sur les prix de vente dès leur application par l'organisme bénéficiaire.",Client,0
+29,facturation,3,Je ne vois pas l'historique de mes factures dans mon Espace client,"Le changement de notre système d’information a entraîné la migration de nombreuses données. Sachez que nous avons fait le choix de ne pas intégrer informatiquement les factures précédents le 01 janvier 2016.
+Rassurez-vous, nous pourrons vous les transmettre sur simple demande via ce lien : https://espace-client.enercoop.fr/mon-espace/compte/#discussion",Client,0
+30,espace_client,2,Où trouver mon espace client ?,"Retrouvez votre agence sur l'onglet intitulé ""Mon compte"", situé en haut à droite de cette page ou en suivant ce lien directement: https://espace-client.enercoop.fr/",Client,0
+31,déménagement,1,Que faire en cas de déménagement ?,"Si vous déménagez, vous devez résilier votre contrat en cours et souscrire un nouveau contrat pour votre nouvelle adresse (nouveau point de livraison, nouvelles spécifications techniques de l'installation, etc...).
+Depuis votre espace client, rendez-vous sur l'onglet ""Compte"", rubrique ""Déménagement"".
+Nous vous rappelons que votre espace client est accessible à cette adresse : http://espace-client.enercoop.fr.
+Vous pouvez également envoyer un mail à  l'adresse resiliation@enercoop.org ; en nous transmettant les informations suivantes :
+Nom et prénom figurant dans votre contrat
+Adresse précise du contrat
+La date souhaitée de résiliation
+Si possible, le relevé du compteur à la date de sortie (pour avoir une facture de résiliation avec les bons index de consommation)
+Votre nouvelle adresse (pour l'envoi de la facture de résiliation)
+La résiliation prendra effet à la date indiquée et au plus tard 30 jours après l'envoi du courriel.",Client,0
+32,déménagement,1,Le repreneur de mon ancien logement peut-il rester chez Enercoop ?,"Bien sûr, il peut choisir Enercoop s'il le souhaite. Pour cela, il doit souscrire un nouveau contrat à son nom.",Client,0
+33,contact,0,Comment joindre le service client ?,"Nous vous rappelons que, depuis votre espace client, vous pouvez réaliser directement plusieurs actions :
+- Transmission de relevé de compteur
+- Changement de coordonnées bancaires, adresse de facturation, co-titulaire...
+- Téléchargement de votre attestation de domicile
+- Consultation et téléchargement de vos factures et de votre historique de consommation
+- Souscription au micro-don
+Pour toute autre demande, vous pouvez joindre le service client : 
+Par téléphone, du lundi au vendredi de 9h00 à 18h00 :
+- pour les particuliers : 01.75.44.41.56 
+- pour les professionnels : 01.81.80.23.88 
+Par mail : 
+- pour les particuliers: service-client.part@enercoop.org
+- pour les professionnels : service-client.pro@enercoop.org",Indéterminé,1
+34,intervention,4,Quelles sont les interventions techniques assurées par le réseau de distribution ?,"Toutes les prestations techniques dépendent du distributeur Enedis (anciennement ERDF). Ce sont dans tous les cas des agents du réseau Enedis (ou ses sous-traitants) qui se déplacent à votre domicile.
+C'est donc le réseau Enedis qui facture l'intervention : à Enercoop dans un premier temps, puis Enercoop vous la refacture. Cette refacturation s'effectue sans aucune marge pour Enercoop.
+Vous pouvez consulter les prestations Enedis en cliquant sur les liens ci-dessous :
+Catalogue de prestations pour les particuliers
+Catalogue de prestations pour les professionnels et les entreprises
+Catalogue de prestations pour les collectivités",Client,0
