@@ -1,0 +1,1167 @@
+{
+    "luis_schema_version": "3.2.0",
+    "versionId": "0.1",
+    "name": "Enercoop Imported",
+    "desc": "1 intent / question",
+    "culture": "fr-fr",
+    "tokenizerVersion": "1.0.0",
+    "intents": [
+        {
+            "name": "Quelle est la specificite"
+        },
+        {
+            "name": "Comment puis-je etre sur"
+        },
+        {
+            "name": "Pourquoi l'offre d'Enerco"
+        },
+        {
+            "name": "Comment souscrire un cont"
+        },
+        {
+            "name": "Dois-je resilier le contr"
+        },
+        {
+            "name": "Mon choix engage-t-il le"
+        },
+        {
+            "name": "Puis-je changer d'avis ?"
+        },
+        {
+            "name": "Comment trouver mon point"
+        },
+        {
+            "name": "Comment effectuer la rele"
+        },
+        {
+            "name": "Le reseau de distribution"
+        },
+        {
+            "name": "Aurai-je plus de coupures"
+        },
+        {
+            "name": "Besoin de nous contacter"
+        },
+        {
+            "name": "Pourquoi devenir societai"
+        },
+        {
+            "name": "Dois-je devenir societair"
+        },
+        {
+            "name": "Je n'arrive pas a me conn"
+        },
+        {
+            "name": "Je ne sais pas a quelle d"
+        },
+        {
+            "name": "Comment resilier mon cont"
+        },
+        {
+            "name": "Je ne recois pas mes fact"
+        },
+        {
+            "name": "J'ai un prelevement avec"
+        },
+        {
+            "name": "Ou trouver ma facture ?"
+        },
+        {
+            "name": "Comment lire ma facture ?"
+        },
+        {
+            "name": "Comment regler ma facture"
+        },
+        {
+            "name": "Comment declarer sa conso"
+        },
+        {
+            "name": "Que se passe-t-il en cas"
+        },
+        {
+            "name": "Quelle est la periodicite"
+        },
+        {
+            "name": "Je n'arrive pas a changer"
+        },
+        {
+            "name": "Puis-je consulter mes fac"
+        },
+        {
+            "name": "Comment faire pour etre m"
+        },
+        {
+            "name": "Mise a jour des tarifs"
+        },
+        {
+            "name": "Je ne vois pas l'historiq"
+        },
+        {
+            "name": "Ou trouver mon espace cli"
+        },
+        {
+            "name": "Que faire en cas de demen"
+        },
+        {
+            "name": "Le repreneur de mon ancie"
+        },
+        {
+            "name": "Comment joindre le servic"
+        },
+        {
+            "name": "Quelles sont les interven"
+        }
+    ],
+    "entities": [],
+    "composites": [],
+    "closedLists": [],
+    "patternAnyEntities": [],
+    "regex_entities": [],
+    "prebuiltEntities": [],
+    "model_features": [],
+    "regex_features": [],
+    "patterns": [],
+    "utterances": [
+        {
+            "text": "Enercoop est le seul fournisseur d'\u00e9lectricit\u00e9 100% renouvelable et coop\u00e9rative \u00e0 s'approvisionner directement aupr\u00e8s de producteurs d'\u00e9nergies renouvelables : hydraulique, \u00e9olien, photovolta\u00efque et biogaz",
+            "intent": "Quelle est la specificite",
+            "entities": []
+        },
+        {
+            "text": "Au-del\u00e0, Enercoop est une Soci\u00e9t\u00e9 Coop\u00e9rative d'Int\u00e9r\u00eat Collectif (SCIC), dont plus de la moiti\u00e9 des b\u00e9n\u00e9fices sont statutairement r\u00e9investis dans l'objet de la structure, \u00e0 savoir les \u00e9nergies renouvelables et les \u00e9conomies d'\u00e9nergie",
+            "intent": "Quelle est la specificite",
+            "entities": []
+        },
+        {
+            "text": "En choisissant Enercoop, vous soutenez concr\u00e8tement le d\u00e9veloppement des \u00e9nergies renouvelables et participez \u00e0 un nouveau projet d'appropriation citoyenne et locale du secteur de l'\u00e9nergie",
+            "intent": "Quelle est la specificite",
+            "entities": []
+        },
+        {
+            "text": "Quelle est la specificite",
+            "intent": "Quelle est la specificite",
+            "entities": []
+        },
+        {
+            "text": "Il n'y a pas de tra\u00e7abilit\u00e9 physique de l'\u00e9lectricit\u00e9 une fois inject\u00e9e dans le r\u00e9seau commun de transport et de distribution",
+            "intent": "Comment puis-je etre sur",
+            "entities": []
+        },
+        {
+            "text": "Enercoop s'engage \u00e0 injecter sur le r\u00e9seau de distribution autant d'\u00e9lectricit\u00e9 d'origine renouvelable que ses clients en consomment",
+            "intent": "Comment puis-je etre sur",
+            "entities": []
+        },
+        {
+            "text": " La tra\u00e7abilit\u00e9 est financi\u00e8re : vous avez la garantie que votre argent va aux \u00e9nergies renouvelables, en r\u00e9mun\u00e9rant les producteurs de la coop\u00e9rative via votre facture d'\u00e9lectricit\u00e9",
+            "intent": "Comment puis-je etre sur",
+            "entities": []
+        },
+        {
+            "text": "En plus de s'approvisionner aupr\u00e8s de producteurs d'\u00e9nergie renouvelable, Enercoop recourt au dispositif des garanties d'origine, g\u00e9r\u00e9 par un organisme ind\u00e9pendant, lui permettant de d\u00e9montrer que l'\u00e9lectricit\u00e9 qu'il fournit est bien d'origine renouvelable",
+            "intent": "Comment puis-je etre sur",
+            "entities": []
+        },
+        {
+            "text": " Gr\u00e2ce aux contrats \u00e9tablis en direct avec les producteurs, ces garanties d'origine sont directement li\u00e9es \u00e0 l'\u00e9nergie achet\u00e9e par Enercoop",
+            "intent": "Comment puis-je etre sur",
+            "entities": []
+        },
+        {
+            "text": "Comment puis-je etre sur",
+            "intent": "Comment puis-je etre sur",
+            "entities": []
+        },
+        {
+            "text": "Le prix d'Enercoop repose sur la r\u00e9alit\u00e9 de son co\u00fbt d'approvisionnement et non sur des opportunit\u00e9s commerciales",
+            "intent": "Pourquoi l'offre d'Enerco",
+            "entities": []
+        },
+        {
+            "text": "Enercoop r\u00e9percute ses co\u00fbts d'achat d'\u00e9nergie sur la facture finale dans une d\u00e9marche transparente de viabilit\u00e9 du mod\u00e8le \u00e0 long terme",
+            "intent": "Pourquoi l'offre d'Enerco",
+            "entities": []
+        },
+        {
+            "text": "Le mod\u00e8le \u00e9conomique d'Enercoop ne pourrait pas \u00eatre viable si ses tarifs \u00e9taient adoss\u00e9s \u00e0 ceux que pratiquent actuellement les autres fournisseurs",
+            "intent": "Pourquoi l'offre d'Enerco",
+            "entities": []
+        },
+        {
+            "text": " Les \u00e9nergies renouvelables, elles, deviennent de plus en plus comp\u00e9titives",
+            "intent": "Pourquoi l'offre d'Enerco",
+            "entities": []
+        },
+        {
+            "text": " L'hydro\u00e9lectricit\u00e9 est depuis longtemps l'\u00e9lectricit\u00e9 la moins ch\u00e8re du march\u00e9 tandis que l'\u00e9olien et le photovolta\u00efque au sol pr\u00e9sentent aujourd'hui des co\u00fbts similaires \u00e0 ceux des \u00e9nergies fossiles, et inf\u00e9rieurs \u00e0 ceux du nucl\u00e9aire",
+            "intent": "Pourquoi l'offre d'Enerco",
+            "entities": []
+        },
+        {
+            "text": "Enfin, les tarifs actuels (hors Enercoop) n'int\u00e8grent pas, ou de fa\u00e7on tr\u00e8s insuffisante, des co\u00fbts environnementaux et sociaux li\u00e9s \u00e0 l'utilisation des \u00e9nergies fossiles et de l'\u00e9nergie nucl\u00e9aire : d\u00e9r\u00e8glements climatiques, pollution, gestion des d\u00e9chets radioactifs, catastrophes nucl\u00e9aires\u2026 Co\u00fbts que nos soci\u00e9t\u00e9s doivent et vont devoir au final assumer",
+            "intent": "Pourquoi l'offre d'Enerco",
+            "entities": []
+        },
+        {
+            "text": "Pourquoi l'offre d'Enerco",
+            "intent": "Pourquoi l'offre d'Enerco",
+            "entities": []
+        },
+        {
+            "text": "C'est tr\u00e8s simple ! Rendez-vous sur https://souscription",
+            "intent": "Comment souscrire un cont",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Comment souscrire un cont",
+            "entities": []
+        },
+        {
+            "text": "fr/ et laissez-vous guider !",
+            "intent": "Comment souscrire un cont",
+            "entities": []
+        },
+        {
+            "text": "Comment souscrire un cont",
+            "intent": "Comment souscrire un cont",
+            "entities": []
+        },
+        {
+            "text": "Non ! Enercoop s'occupe de tout au moment du traitement de votre souscription",
+            "intent": "Dois-je resilier le contr",
+            "entities": []
+        },
+        {
+            "text": " Enercoop prendra en charge la r\u00e9siliation de votre contrat en cours",
+            "intent": "Dois-je resilier le contr",
+            "entities": []
+        },
+        {
+            "text": " Par ailleurs, il n'y aura ni coupure de courant, ni intervention sur votre compteur, qui reste g\u00e9r\u00e9 par le gestionnaire du r\u00e9seau de distribution (Enedis)",
+            "intent": "Dois-je resilier le contr",
+            "entities": []
+        },
+        {
+            "text": " Ce sont les m\u00eames agents qui interviendront pour effectuer vos relev\u00e9s de compteur ainsi qu\u2019en cas de panne",
+            "intent": "Dois-je resilier le contr",
+            "entities": []
+        },
+        {
+            "text": "Dois-je resilier le contr",
+            "intent": "Dois-je resilier le contr",
+            "entities": []
+        },
+        {
+            "text": "Non",
+            "intent": "Mon choix engage-t-il le",
+            "entities": []
+        },
+        {
+            "text": " Tout nouvel entrant dans un logement / local peut choisir imm\u00e9diatement l'offre de son choix, y compris les tarifs r\u00e9glement\u00e9s, quel qu'ait \u00e9t\u00e9 le choix du pr\u00e9c\u00e9dent occupant",
+            "intent": "Mon choix engage-t-il le",
+            "entities": []
+        },
+        {
+            "text": "Mon choix engage-t-il le",
+            "intent": "Mon choix engage-t-il le",
+            "entities": []
+        },
+        {
+            "text": "Oui",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": " Vous pouvez quitter Enercoop \u00e0 tout moment sans frais",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": "De plus, le retour aux tarifs r\u00e9glement\u00e9s est possible sans conditions pour les consommateurs dont le site a une puissance inf\u00e9rieure ou \u00e9gale \u00e0 36 kVA",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": "Sachez qu'en cas de souscription \u00e0 distance (internet, t\u00e9l\u00e9phone, courrier) vous b\u00e9n\u00e9ficiez, si vous \u00eates un particulier, d'un d\u00e9lai de r\u00e9tractation de 14 jours \u00e0 compter de la date de souscription ou d'acceptation de l'offre quand elle est souscrite par internet",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": "La r\u00e9tractation peut \u00eatre op\u00e9r\u00e9e par tout moyen et sans motif",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": " Si le d\u00e9lai expire un samedi, un dimanche ou un jour f\u00e9ri\u00e9 ou ch\u00f4m\u00e9, il est prolong\u00e9 jusqu'au premier jour ouvrable suivant",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": "Vous pouvez demander \u00e0 ce que l'ex\u00e9cution de votre contrat d\u00e9bute avant la fin du d\u00e9lai de r\u00e9tractation si vous nous en faites directement la demande",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": " Dans ce cas, l'\u00e9nergie consomm\u00e9e et l'abonnement sont dus jusqu\u2019\u00e0 la date o\u00f9 vous nous communiquez votre d\u00e9cision de vous r\u00e9tracter",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": "Puis-je changer d'avis ?",
+            "intent": "Puis-je changer d'avis ?",
+            "entities": []
+        },
+        {
+            "text": "Afin de finaliser la souscription d\u2019un contrat Enercoop, il est n\u00e9cessaire de nous transmettre votre point de livraison (PDL)",
+            "intent": "Comment trouver mon point",
+            "entities": []
+        },
+        {
+            "text": " C\u2019est une r\u00e9f\u00e9rence \u00e0 14 chiffres, qui se situe sur la facture de votre actuel fournisseur",
+            "intent": "Comment trouver mon point",
+            "entities": []
+        },
+        {
+            "text": "Si vous venez d\u2019emm\u00e9nager dans un nouveau local, plusieurs possibilit\u00e9s s'offrent \u00e0 vous pour trouver ce num\u00e9ro :\u2022 Le r\u00e9cup\u00e9rer aupr\u00e8s de votre pr\u00e9d\u00e9cesseur, de votre agence ou de votre propri\u00e9taire selon votre situation\u2022 Nous communiquer le nom du pr\u00e9d\u00e9cesseur et/ou le num\u00e9ro de matricule de votre compteur\u2022 Nous envoyer une photo lisible du compteur",
+            "intent": "Comment trouver mon point",
+            "entities": []
+        },
+        {
+            "text": "Si vous avez d\u00e9j\u00e0 un contrat chez un fournisseur d\u2019\u00e9lectricit\u00e9, vous trouverez cette r\u00e9f\u00e9rence directement sur vos factures actuelles",
+            "intent": "Comment trouver mon point",
+            "entities": []
+        },
+        {
+            "text": "Comment trouver mon point",
+            "intent": "Comment trouver mon point",
+            "entities": []
+        },
+        {
+            "text": "Afin de finaliser la souscription d\u2019un contrat Enercoop, il est n\u00e9cessaire de nous transmettre votre rel\u00e8ve de compteur",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": " Cette rel\u00e8ve doit \u00eatre transmise selon votre param\u00e9trage actuel : Base ou Heures - Pleines / Heures creuses",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": "Le relev\u00e9 du compteur permet de conna\u00eetre avec exactitude le nombre de kWh consomm\u00e9s",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": "  Vous avez un compteur \u00e9lectrom\u00e9canique- Si le compteur comporte un seul cadran (option Base), relevez les 5 ou 6 derniers chiffres",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": "- Si le compteur comporte deux cadrans (option Heures pleines / Heures creuses), relevez les 5 ou 6 derniers chiffres des deux cadrans",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": " La premi\u00e8re ligne correspond \u00e0 la consommation aux heures creuses, la seconde correspond \u00e0 la consommation aux heures pleines",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": "  Vous avez un compteur \u00e9lectroniqueAppuyez sur le bouton \u00abD\u00bb (D\u00e9filement)",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": "- Si des chiffres s\u2019affichent, sans texte (option Base), relevez les 5 derniers chiffres",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": "- Si des chiffres s\u2019affichent, avec une indication texte \u00abcreuse\u00bb ou \u00abpleine\u00bb (option Heures pleines / Heures creuses), relevez les 5 derniers chiffres indiqu\u00e9s pour la tranche horaire affich\u00e9e et appuyez de nouveau sur le bouton \u00abD\u00bb (D\u00e9filement), pour rel\u00e8ver les 5 autres chiffres indiqu\u00e9s pour l\u2019autre tranche horaire",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": "Comment effectuer la rele",
+            "intent": "Comment effectuer la rele",
+            "entities": []
+        },
+        {
+            "text": "Oui",
+            "intent": "Le reseau de distribution",
+            "entities": []
+        },
+        {
+            "text": " Nous n'avons jamais constat\u00e9 de traitement en d\u00e9faveur de nos consommateurs",
+            "intent": "Le reseau de distribution",
+            "entities": []
+        },
+        {
+            "text": " Le r\u00e9seau est devenu une entit\u00e9 distincte d'EDF, Enedis (anciennement \u00c9lectricit\u00e9 R\u00e9seau Distribution France), au service de tous les consommateurs, qu'ils soient clients d'Enercoop ou du fournisseur historique",
+            "intent": "Le reseau de distribution",
+            "entities": []
+        },
+        {
+            "text": "Le reseau de distribution",
+            "intent": "Le reseau de distribution",
+            "entities": []
+        },
+        {
+            "text": "Non",
+            "intent": "Aurai-je plus de coupures",
+            "entities": []
+        },
+        {
+            "text": " La continuit\u00e9 du service est toujours garantie par le gestionnaire du r\u00e9seau de distribution d'\u00e9lectricit\u00e9 (Enedis, anciennement ERDF), qui reste un monopole, garant du service public de l'\u00e9lectricit\u00e9",
+            "intent": "Aurai-je plus de coupures",
+            "entities": []
+        },
+        {
+            "text": "Aurai-je plus de coupures",
+            "intent": "Aurai-je plus de coupures",
+            "entities": []
+        },
+        {
+            "text": "Vous avez des questions ? N'h\u00e9sitez pas \u00e0 contacter notre \u00e9quipe au 09 70 68 07 65 du lundi au vendredi, de 9h \u00e0 18h",
+            "intent": "Besoin de nous contacter",
+            "entities": []
+        },
+        {
+            "text": "Besoin de nous contacter",
+            "intent": "Besoin de nous contacter",
+            "entities": []
+        },
+        {
+            "text": "Le statut de SCIC implique que tout consommateur, particulier ou professionnel, a la possibilit\u00e9 de devenir soci\u00e9taire en souscrivant au minimum une part de capital (= 100 \u20ac)",
+            "intent": "Pourquoi devenir societai",
+            "entities": []
+        },
+        {
+            "text": "Les avantages sont les suivants :pouvoir participer d\u00e9mocratiquement aux d\u00e9cisions de la coop\u00e9rative lors de l\u2019Assembl\u00e9e g\u00e9n\u00e9rale et \u00e9lire ses repr\u00e9sentants au Conseil d\u2019administration\u00eatre candidat aux fonctions d\u2019administrateur,\u00eatre exon\u00e9r\u00e9 des frais d'enregistrement (36\u20ac TTC)en cas d\u2019exercice exc\u00e9dentaire, une r\u00e9mun\u00e9ration des parts sociales peut \u00eatre vers\u00e9e",
+            "intent": "Pourquoi devenir societai",
+            "entities": []
+        },
+        {
+            "text": "Pourquoi devenir societai",
+            "intent": "Pourquoi devenir societai",
+            "entities": []
+        },
+        {
+            "text": "Non",
+            "intent": "Dois-je devenir societair",
+            "entities": []
+        },
+        {
+            "text": " \u00catre soci\u00e9taire n'est pas une obligation pour devenir consommateur",
+            "intent": "Dois-je devenir societair",
+            "entities": []
+        },
+        {
+            "text": " Le choix d'\u00eatre soci\u00e9taire r\u00e9pond \u00e0 une motivation qui va au-del\u00e0 de la volont\u00e9 de consommer vert : participer \u00e0 notre d\u00e9marche et au d\u00e9veloppement de la coop\u00e9rative",
+            "intent": "Dois-je devenir societair",
+            "entities": []
+        },
+        {
+            "text": " Il est \u00e0 noter que les soci\u00e9taires sont exon\u00e9r\u00e9s des frais \u00e0 la souscription (36\u20ac TTC) auxquels sont soumis les clients ayant une puissance souscrite inf\u00e9rieure \u00e0 36 kVA",
+            "intent": "Dois-je devenir societair",
+            "entities": []
+        },
+        {
+            "text": "Dois-je devenir societair",
+            "intent": "Dois-je devenir societair",
+            "entities": []
+        },
+        {
+            "text": "Votre espace client est compatible avec les derni\u00e8res versions de navigateur internet, nous vous invitons \u00e0 v\u00e9rifier la version de votre navigateur internet et de le mettre \u00e0 jour r\u00e9guli\u00e8rement afin de profiter pleinement de ses fonctionnalit\u00e9s (transmission de relev\u00e9 de compteur, changement de coordonn\u00e9es bancaires, consultation et t\u00e9l\u00e9chargement de vos factures, historique de consommation, formu",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": ")Vous pouvez v\u00e9rifier la version de votre navigateur et le mettre \u00e0 jour via ce lien: https://browser-update",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": "org/fr/update",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": "htmlNous vous rappelons que votre espace client est accessible \u00e0 cette adresse : http://espace-client",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": "fr",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": " Votre identifiant est votre adresse email (pour la plupart d'entre vous, il s'agit de l'adresse email que vous avez utilis\u00e9e pour souscrire)",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": " Votre mot de passe sera g\u00e9n\u00e9r\u00e9 automatiquement par email lors de votre premi\u00e8re connexion",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": " Vous avez \u00e9galement la possibilit\u00e9 de renouveler votre mot de passe en cliquant sur \"mot de passe oubli\u00e9\"",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": "Je n'arrive pas a me conn",
+            "intent": "Je n'arrive pas a me conn",
+            "entities": []
+        },
+        {
+            "text": "Parmi les fonctionnalit\u00e9s de l\u2019espace client, nous attirons votre attention sur l\u2019espace d\u00e9di\u00e9 \u00e0 la saisie d\u2019index de consommation qui correspond \u00e0 la saisie de vos relev\u00e9s de compteur",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": " Vous pourrez saisir vos donn\u00e9es directement dans cet espace tous les deux mois",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": " Vous serez averti de la p\u00e9riode de saisie directement par email et trouverez l'encart de d\u00e9claration sur la droite de la page d'accueil de votre espace client",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": "\u00c0 la suite de votre d\u00e9claration, vous recevrez un email de confirmation de prise en compte de votre relev\u00e9 de compteur",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": "Si vous n'arrivez pas \u00e0 valider la saisie de votre index de consommation, c'est s\u00fbrement que votre navigateur n'est pas \u00e0 jour",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": "Sachez que vous pouvez v\u00e9rifier votre version de navigateur en suivant ce lien: https://browser-update",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": "org/fr/update",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": "html",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": "Je ne sais pas a quelle d",
+            "intent": "Je ne sais pas a quelle d",
+            "entities": []
+        },
+        {
+            "text": "Vous pouvez r\u00e9silier votre contrat \u00e0 tout moment :- en changeant de fournisseur",
+            "intent": "Comment resilier mon cont",
+            "entities": []
+        },
+        {
+            "text": " Dans ce cas, le contrat sera r\u00e9sili\u00e9 au jour de la prise d'effet du contrat avec votre nouveau fournisseur sans que vous ayez \u00e0 faire une quelconque d\u00e9marche aupr\u00e8s de nos services,- en cas de d\u00e9m\u00e9nagement",
+            "intent": "Comment resilier mon cont",
+            "entities": []
+        },
+        {
+            "text": " Pour cela il suffit soit de vous rendre sur espace client dans l'onglet \"Compte\", rubrique \"D\u00e9m\u00e9nagement\" (adresse de votre espace client : http://espace-client",
+            "intent": "Comment resilier mon cont",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Comment resilier mon cont",
+            "entities": []
+        },
+        {
+            "text": "fr), soit de nous envoyer un mail \u00e0 l'adresse resiliation@enercoop",
+            "intent": "Comment resilier mon cont",
+            "entities": []
+        },
+        {
+            "text": "org en nous transmettant les informations suivantes :Nom et pr\u00e9nom figurant dans votre contratAdresse pr\u00e9cise du contratLa date souhait\u00e9e de r\u00e9siliationSi possible, le relev\u00e9 du compteur \u00e0 la date de sortie (pour avoir une facture de r\u00e9siliation avec les bons index de consommation)Votre nouvelle adresse (pour l'envoi de la facture de r\u00e9siliation)La r\u00e9siliation prendra effet \u00e0 la date indiqu\u00e9e et a",
+            "intent": "Comment resilier mon cont",
+            "entities": []
+        },
+        {
+            "text": "Comment resilier mon cont",
+            "intent": "Comment resilier mon cont",
+            "entities": []
+        },
+        {
+            "text": "Retrouvez vos factures sur votre espace client",
+            "intent": "Je ne recois pas mes fact",
+            "entities": []
+        },
+        {
+            "text": " Nous vous rappelons que votre espace client est accessible \u00e0 cette adresse : http://espace-client",
+            "intent": "Je ne recois pas mes fact",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Je ne recois pas mes fact",
+            "entities": []
+        },
+        {
+            "text": "fr",
+            "intent": "Je ne recois pas mes fact",
+            "entities": []
+        },
+        {
+            "text": "Afin de visualiser vos factures, cliquez sur la rubrique \"Factures\" (en haut \u00e0 gauche)",
+            "intent": "Je ne recois pas mes fact",
+            "entities": []
+        },
+        {
+            "text": " S\u00e9lectionnez la facture que vous souhaitez visualiser, puis cliquez sur \"Voir votre facture d\u00e9taill\u00e9e\"",
+            "intent": "Je ne recois pas mes fact",
+            "entities": []
+        },
+        {
+            "text": "Je ne recois pas mes fact",
+            "intent": "Je ne recois pas mes fact",
+            "entities": []
+        },
+        {
+            "text": "Vous avez peut-\u00eatre \u00e9t\u00e9 pr\u00e9lev\u00e9 sur votre compte bancaire entre le 3 et le 28 aout 2018 du montant de votre facture ou de votre mensualit\u00e9 avec le libell\u00e9 \"Cr\u00e9dit Coop\u00e9ratif\" au lieu de \"Enercoop\"",
+            "intent": "J'ai un prelevement avec",
+            "entities": []
+        },
+        {
+            "text": "Rassurez-vous, l'argent pr\u00e9lev\u00e9 a \u00e9t\u00e9 per\u00e7u par Enercoop et non par notre banque, le Cr\u00e9dit Coop\u00e9ratif",
+            "intent": "J'ai un prelevement avec",
+            "entities": []
+        },
+        {
+            "text": "Si vous avez fait opposition \u00e0 ce pr\u00e9l\u00e8vement, nous vous remercions de contacter notre Service Recouvrement et Solidarit\u00e9 au 01 80 18 92 28 ou par email \u00e0 l'adresse recouvrement@enercoop",
+            "intent": "J'ai un prelevement avec",
+            "entities": []
+        },
+        {
+            "text": "org",
+            "intent": "J'ai un prelevement avec",
+            "entities": []
+        },
+        {
+            "text": "J'ai un prelevement avec",
+            "intent": "J'ai un prelevement avec",
+            "entities": []
+        },
+        {
+            "text": "Retrouvez vos factures sur votre espace client",
+            "intent": "Ou trouver ma facture ?",
+            "entities": []
+        },
+        {
+            "text": " Nous vous rappelons que votre espace client est accessible \u00e0 cette adresse : http://espace-client",
+            "intent": "Ou trouver ma facture ?",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Ou trouver ma facture ?",
+            "entities": []
+        },
+        {
+            "text": "fr",
+            "intent": "Ou trouver ma facture ?",
+            "entities": []
+        },
+        {
+            "text": " Afin de visualiser vos factures, cliquez sur la rubrique \"Factures\" (en haut \u00e0 gauche)",
+            "intent": "Ou trouver ma facture ?",
+            "entities": []
+        },
+        {
+            "text": " S\u00e9lectionnez la facture que vous souhaitez visualiser, puis cliquez sur \"Voir votre facture d\u00e9taill\u00e9e\"",
+            "intent": "Ou trouver ma facture ?",
+            "entities": []
+        },
+        {
+            "text": "Ou trouver ma facture ?",
+            "intent": "Ou trouver ma facture ?",
+            "entities": []
+        },
+        {
+            "text": "Consultez l'exemple en pi\u00e8ce jointe afin de comprendre votre facture",
+            "intent": "Comment lire ma facture ?",
+            "entities": []
+        },
+        {
+            "text": "Comment lire ma facture ?",
+            "intent": "Comment lire ma facture ?",
+            "entities": []
+        },
+        {
+            "text": "Par d\u00e9faut, le r\u00e8glement est r\u00e9alis\u00e9 par pr\u00e9l\u00e8vement automatique 14 jours \u00e0 compter de la date d'\u00e9mission de la facture",
+            "intent": "Comment regler ma facture",
+            "entities": []
+        },
+        {
+            "text": "Vous pouvez choisir de r\u00e9gler votre facture par pr\u00e9l\u00e8vement automatique, virement, ch\u00e8que, mandat compte ou bien ch\u00e8que \u00e9nergie (si vous \u00eates \u00e9ligibles \u00e0 ce dispositif) 14 jours apr\u00e8s la date d'\u00e9mission de la facture sur simple demande",
+            "intent": "Comment regler ma facture",
+            "entities": []
+        },
+        {
+            "text": "Comment regler ma facture",
+            "intent": "Comment regler ma facture",
+            "entities": []
+        },
+        {
+            "text": "Parce que, pour r\u00e9duire sa consommation, il faut d'abord la conna\u00eetre, Enercoop vous propose de relever vous-m\u00eame l'index de votre compteur tous les deux mois et de le rentrer dans votre espace client",
+            "intent": "Comment declarer sa conso",
+            "entities": []
+        },
+        {
+            "text": "Vous pourrez saisir vos donn\u00e9es directement dans cet espace tous les deux mois",
+            "intent": "Comment declarer sa conso",
+            "entities": []
+        },
+        {
+            "text": " Vous serez averti",
+            "intent": "Comment declarer sa conso",
+            "entities": []
+        },
+        {
+            "text": "e de la p\u00e9riode de saisie directement par email",
+            "intent": "Comment declarer sa conso",
+            "entities": []
+        },
+        {
+            "text": "Comment declarer sa conso",
+            "intent": "Comment declarer sa conso",
+            "entities": []
+        },
+        {
+            "text": "A la suite de diff\u00e9rents probl\u00e8mes relatifs \u00e0 des rejets et/ou probl\u00e8mes de coordonn\u00e9es bancaires, Enercoop peut \u00eatre amen\u00e9 \u00e0 \u00abd\u00e9-pr\u00e9lev\u00e9r \u00bb votre compte et \u00e0 le passer en mode de paiement par ch\u00e8que (si vous aviez choisi la mensualisation, vous serez alors \u00ab d\u00e9-mensualis\u00e9 \u00bb)",
+            "intent": "Que se passe-t-il en cas",
+            "entities": []
+        },
+        {
+            "text": "Nous vous invitons alors \u00e0 r\u00e9gler vos factures d'\u00e9lectricit\u00e9 par ch\u00e8que",
+            "intent": "Que se passe-t-il en cas",
+            "entities": []
+        },
+        {
+            "text": " Un \u00e9ch\u00e9ancier de paiement peut \u00e9ventuellement \u00eatre mis en place",
+            "intent": "Que se passe-t-il en cas",
+            "entities": []
+        },
+        {
+            "text": "Si vous souhaitez revenir \u00e0 un syst\u00e8me de paiement par pr\u00e9l\u00e8vement automatique, veuillez r\u00e9gulariser votre situation aupr\u00e8s de votre \u00e9tablissement bancaire, et nous transmettre \u00e0 nouveau votre RIB accompagn\u00e9 du formulaire d'autorisation de pr\u00e9l\u00e8vement",
+            "intent": "Que se passe-t-il en cas",
+            "entities": []
+        },
+        {
+            "text": "Que se passe-t-il en cas",
+            "intent": "Que se passe-t-il en cas",
+            "entities": []
+        },
+        {
+            "text": "Le rythme de facturation classique chez Enercoop est bimestriel (tous les deux mois), en effet, notre syst\u00e8me de facturation est cal\u00e9 sur les relev\u00e9s d'index que nous transmet le gestionnaire de r\u00e9seau Enedis",
+            "intent": "Quelle est la periodicite",
+            "entities": []
+        },
+        {
+            "text": "Vous pouvez aussi passer \u00e0 la mensualisation en contactant votre Service Client, nous vous proposerons ainsi un devis",
+            "intent": "Quelle est la periodicite",
+            "entities": []
+        },
+        {
+            "text": " La mensualisation chez Enercoop applique le m\u00eame principe que la mensualisation de vos imp\u00f4ts ; \u00e0 savoir 10 pr\u00e9l\u00e8vements identiques (sur 10 mois) et 2 pr\u00e9l\u00e8vements (sur 2 mois) de r\u00e9gularisation sur facture annuelle",
+            "intent": "Quelle est la periodicite",
+            "entities": []
+        },
+        {
+            "text": " La facture annuelle sera bas\u00e9e sur les relev\u00e9s r\u00e9els effectu\u00e9s par les techniciens du r\u00e9seau Enedis, ce qui vous assure d'\u00eatre factur\u00e9 sur votre consommation r\u00e9elle sur une ann\u00e9e",
+            "intent": "Quelle est la periodicite",
+            "entities": []
+        },
+        {
+            "text": "Rappel du mode de calcul de vos factures :- R\u00e9el (rel\u00e8ve r\u00e9elle) : correspond au passage du technicien Enedis qui effectue 2 fois par an la rel\u00e8ve de votre compteur- D\u00e9clar\u00e9 : correspond \u00e0 vos d\u00e9clarations de relev\u00e9s que vous nous transmettez via votre espace client- Estim\u00e9 : \u00e0 d\u00e9faut d'auto-rel\u00e8ve, Enedis g\u00e9n\u00e8re et nous transmet des estimations de vos consommations",
+            "intent": "Quelle est la periodicite",
+            "entities": []
+        },
+        {
+            "text": "Quelle est la periodicite",
+            "intent": "Quelle est la periodicite",
+            "entities": []
+        },
+        {
+            "text": "Sur votre espace client vous pouvez modifier directement vos coordonn\u00e9es bancaires (RIB)",
+            "intent": "Je n'arrive pas a changer",
+            "entities": []
+        },
+        {
+            "text": "Pour changer de mode de paiement (Virement, ch\u00e8que, pr\u00e9l\u00e8vement) ou demander de passer \u00e0 la mensualisation, nous vous invitons \u00e0 nous contacter en suivant ce lien : https://espace-client",
+            "intent": "Je n'arrive pas a changer",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Je n'arrive pas a changer",
+            "entities": []
+        },
+        {
+            "text": "fr/mon-espace/compte/#discussion",
+            "intent": "Je n'arrive pas a changer",
+            "entities": []
+        },
+        {
+            "text": "Je n'arrive pas a changer",
+            "intent": "Je n'arrive pas a changer",
+            "entities": []
+        },
+        {
+            "text": "Retrouvez vos factures sur votre espace client, dans l'onglet \"Factures\"",
+            "intent": "Puis-je consulter mes fac",
+            "entities": []
+        },
+        {
+            "text": " Nous vous rappelons que votre espace client est accessible \u00e0 cette adresse : http://espace-client",
+            "intent": "Puis-je consulter mes fac",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Puis-je consulter mes fac",
+            "entities": []
+        },
+        {
+            "text": "fr",
+            "intent": "Puis-je consulter mes fac",
+            "entities": []
+        },
+        {
+            "text": "Afin de visualiser vos factures, cliquez sur la rubrique \"Factures\" (en haut \u00e0 gauche)",
+            "intent": "Puis-je consulter mes fac",
+            "entities": []
+        },
+        {
+            "text": " S\u00e9lectionnez la facture que vous souhaitez visualiser, puis cliquez sur \"Voir votre facture d\u00e9taill\u00e9e\"",
+            "intent": "Puis-je consulter mes fac",
+            "entities": []
+        },
+        {
+            "text": "Puis-je consulter mes fac",
+            "intent": "Puis-je consulter mes fac",
+            "entities": []
+        },
+        {
+            "text": "Pour mettre en place la mensualisation, nous avons besoin d'un historique de votre consommation, sur un an id\u00e9alement ",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": " Vous pouvez donc \u00eatre mensualis\u00e9 si vous \u00eates dans votre logement depuis plus d'un an, quelque soit votre fournisseur d'\u00e9lectricit\u00e9 pendant cette p\u00e9riode",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "Si vous ne pouvez pas nous communiquer d'historique de consommation nous vous conseillons d'attendre quelques mois afin de constituer celui-ci et de pouvoir ainsi d\u00e9terminer le montant ad\u00e9quat de vos mensualit\u00e9s",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "La mensualisation chez Enercoop applique le m\u00eame principe que la mensualisation de vos imp\u00f4ts ; \u00e0 savoir 10 pr\u00e9l\u00e8vements identiques (sur 10 mois) et 2 pr\u00e9l\u00e8vements (sur 2 mois) de r\u00e9gularisation sur facture annuelle",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "Vous pouvez faire votre demande par mail \u00e0 service-client",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "part@enercoop",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "orgsi vous \u00eates un particulier, et \u00e0 service-client",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "pro@enercoop",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "org si vous \u00eates un professionnel",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": " Vous pouvez aussi faire cette demande par t\u00e9l\u00e9phone ou sur votre compte",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": " Merci de nous communiquer tout \u00e9l\u00e9ment utile : notamment vos factures d'\u00e9lectricit\u00e9 depuis un an (sauf si vous \u00eates chez Enercoop depuis plus d'un an, auquel cas nous disposons de vos factures), un relev\u00e9 de votre compteur r\u00e9cent et, si vous ne l'aviez pas fourni, un RIB et un formulaire (\u00e0 nous demander) d'autorisation de pr\u00e9l\u00e8vement",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "Comment faire pour etre m",
+            "intent": "Comment faire pour etre m",
+            "entities": []
+        },
+        {
+            "text": "Les factures que vous payez \u00e0 votre fournisseur d'\u00e9lectricit\u00e9 (Enercoop ou tout autre fournisseur) regroupent quatre composantes principales :une part d\u00e9termin\u00e9e par le fournisseurune part li\u00e9e au co\u00fbt des obligations r\u00e9glementaires auxquelles l'ensemble des fournisseurs sont soumis-une part d\u00e9termin\u00e9e par, et qui revient au, r\u00e9seau de transport et de distribution d'\u00e9lectricit\u00e9 en France (Enedis -",
+            "intent": "Mise a jour des tarifs",
+            "entities": []
+        },
+        {
+            "text": "une part de taxes (sp\u00e9cifiques \u00e0 l'\u00e9lectricit\u00e9 et la TVA)Conform\u00e9ment aux conditions g\u00e9n\u00e9rales de vente:1",
+            "intent": "Mise a jour des tarifs",
+            "entities": []
+        },
+        {
+            "text": " En cas d'\u00e9volution de la part du prix qui revient \u00e0 Enercoop ou qui est li\u00e9 aux obligations r\u00e9glementaires, Enercoop communique \u00e0 ses clients la nouvelle grille tarifaire un mois avant son applicationEn 2019, Enecoop fait \u00e9voluer ses tarifs :Pour les clients particuliers : \u00e0 partir du 1er mai 2019 \u2013 plus d\u2019informations iciPour les clients professionnels ayant une puissance souscrite inf\u00e9rieure \u00e0 ",
+            "intent": "Mise a jour des tarifs",
+            "entities": []
+        },
+        {
+            "text": " En cas d'\u00e9volution de la part d\u00e9termine par le r\u00e9seau de transport et de distribution d'\u00e9lectricit\u00e9 en France ou de taxes, ces derni\u00e8res sont r\u00e9percut\u00e9es sur les prix de vente d\u00e8s leur application par l'organisme b\u00e9n\u00e9ficiaire",
+            "intent": "Mise a jour des tarifs",
+            "entities": []
+        },
+        {
+            "text": "Mise a jour des tarifs",
+            "intent": "Mise a jour des tarifs",
+            "entities": []
+        },
+        {
+            "text": "Le changement de notre syst\u00e8me d\u2019information a entra\u00een\u00e9 la migration de nombreuses donn\u00e9es",
+            "intent": "Je ne vois pas l'historiq",
+            "entities": []
+        },
+        {
+            "text": " Sachez que nous avons fait le choix de ne pas int\u00e9grer informatiquement les factures pr\u00e9c\u00e9dents le 01 janvier 2016",
+            "intent": "Je ne vois pas l'historiq",
+            "entities": []
+        },
+        {
+            "text": "Rassurez-vous, nous pourrons vous les transmettre sur simple demande via ce lien : https://espace-client",
+            "intent": "Je ne vois pas l'historiq",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Je ne vois pas l'historiq",
+            "entities": []
+        },
+        {
+            "text": "fr/mon-espace/compte/#discussion",
+            "intent": "Je ne vois pas l'historiq",
+            "entities": []
+        },
+        {
+            "text": "Je ne vois pas l'historiq",
+            "intent": "Je ne vois pas l'historiq",
+            "entities": []
+        },
+        {
+            "text": "Retrouvez votre agence sur l'onglet intitul\u00e9 \"Mon compte\", situ\u00e9 en haut \u00e0 droite de cette page ou en suivant ce lien directement: https://espace-client",
+            "intent": "Ou trouver mon espace cli",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Ou trouver mon espace cli",
+            "entities": []
+        },
+        {
+            "text": "fr/",
+            "intent": "Ou trouver mon espace cli",
+            "entities": []
+        },
+        {
+            "text": "Ou trouver mon espace cli",
+            "intent": "Ou trouver mon espace cli",
+            "entities": []
+        },
+        {
+            "text": "Si vous d\u00e9m\u00e9nagez, vous devez r\u00e9silier votre contrat en cours et souscrire un nouveau contrat pour votre nouvelle adresse (nouveau point de livraison, nouvelles sp\u00e9cifications techniques de l'installation, etc",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": ")",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": "Depuis votre espace client, rendez-vous sur l'onglet \"Compte\", rubrique \"D\u00e9m\u00e9nagement\"",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": "Nous vous rappelons que votre espace client est accessible \u00e0 cette adresse : http://espace-client",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": "enercoop",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": "fr",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": "Vous pouvez \u00e9galement envoyer un mail \u00e0  l'adresse resiliation@enercoop",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": "org ; en nous transmettant les informations suivantes :Nom et pr\u00e9nom figurant dans votre contratAdresse pr\u00e9cise du contratLa date souhait\u00e9e de r\u00e9siliationSi possible, le relev\u00e9 du compteur \u00e0 la date de sortie (pour avoir une facture de r\u00e9siliation avec les bons index de consommation)Votre nouvelle adresse (pour l'envoi de la facture de r\u00e9siliation)La r\u00e9siliation prendra effet \u00e0 la date indiqu\u00e9e et",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": "Que faire en cas de demen",
+            "intent": "Que faire en cas de demen",
+            "entities": []
+        },
+        {
+            "text": "Bien s\u00fbr, il peut choisir Enercoop s'il le souhaite",
+            "intent": "Le repreneur de mon ancie",
+            "entities": []
+        },
+        {
+            "text": " Pour cela, il doit souscrire un nouveau contrat \u00e0 son nom",
+            "intent": "Le repreneur de mon ancie",
+            "entities": []
+        },
+        {
+            "text": "Le repreneur de mon ancie",
+            "intent": "Le repreneur de mon ancie",
+            "entities": []
+        },
+        {
+            "text": "Nous vous rappelons que, depuis votre espace client, vous pouvez r\u00e9aliser directement plusieurs actions :- Transmission de relev\u00e9 de compteur- Changement de coordonn\u00e9es bancaires, adresse de facturation, co-titulaire",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "- T\u00e9l\u00e9chargement de votre attestation de domicile- Consultation et t\u00e9l\u00e9chargement de vos factures et de votre historique de consommation- Souscription au micro-donPour toute autre demande, vous pouvez joindre le service client : Par t\u00e9l\u00e9phone, du lundi au vendredi de 9h00 \u00e0 18h00 :- pour les particuliers : 01",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "75",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "44",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "41",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "56 - pour les professionnels : 01",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "81",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "80",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "23",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "88 Par mail : - pour les particuliers: service-client",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "part@enercoop",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "org- pour les professionnels : service-client",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "pro@enercoop",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "org",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "Comment joindre le servic",
+            "intent": "Comment joindre le servic",
+            "entities": []
+        },
+        {
+            "text": "Toutes les prestations techniques d\u00e9pendent du distributeur Enedis (anciennement ERDF)",
+            "intent": "Quelles sont les interven",
+            "entities": []
+        },
+        {
+            "text": " Ce sont dans tous les cas des agents du r\u00e9seau Enedis (ou ses sous-traitants) qui se d\u00e9placent \u00e0 votre domicile",
+            "intent": "Quelles sont les interven",
+            "entities": []
+        },
+        {
+            "text": "C'est donc le r\u00e9seau Enedis qui facture l'intervention : \u00e0 Enercoop dans un premier temps, puis Enercoop vous la refacture",
+            "intent": "Quelles sont les interven",
+            "entities": []
+        },
+        {
+            "text": " Cette refacturation s'effectue sans aucune marge pour Enercoop",
+            "intent": "Quelles sont les interven",
+            "entities": []
+        },
+        {
+            "text": "Vous pouvez consulter les prestations Enedis en cliquant sur les liens ci-dessous :Catalogue de prestations pour les particuliersCatalogue de prestations pour les professionnels et les entreprisesCatalogue de prestations pour les collectivit\u00e9s",
+            "intent": "Quelles sont les interven",
+            "entities": []
+        },
+        {
+            "text": "Quelles sont les interven",
+            "intent": "Quelles sont les interven",
+            "entities": []
+        }
+    ],
+    "settings": []
+}
